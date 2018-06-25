@@ -62,32 +62,6 @@
       "time": "8/11/2017",
       "profile_pic":
         "https://robohash.org/laborumsedsaepe.jpg?size=80x80&set=set1"
-    },
-    {
-      "id": 3,
-      "user_name": "Brenda Dell Casa",
-      "email": "bdell2@oaic.gov.au",
-      "profession": "Financial Advisor",
-      "title":
-        "nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id",
-      "body":
-        "Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
-      "time": "1/13/2018",
-      "profile_pic":
-        "https://robohash.org/abperferendisaut.png?size=80x80&set=set1"
-    },
-    {
-      "id": 4,
-      "user_name": "Sergent Coldham",
-      "email": "scoldham3@guardian.co.uk",
-      "profession": "Automation Specialist IV",
-      "title":
-        "justo in hac habitasse platea dictumst etiam faucibus cursus urna ut",
-      "body":
-        "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-      "time": "1/22/2018",
-      "profile_pic":
-        "https://robohash.org/undevoluptatesreprehenderit.png?size=80x80&set=set1"
     }
   ]
 }
